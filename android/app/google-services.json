@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674519086345",
+    "project_id": "awal-project-46df2",
+    "storage_bucket": "awal-project-46df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674519086345:android:07cd78111fce8a7fec8fd8",
+        "android_client_info": {
+          "package_name": "id.topawijaya.rafka_clothing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674519086345-0nppnr5qr36ipol2632egi9ke7pmtlaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSGL1zaHl9YuPIp3V50eLioFSdJzh9Z-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674519086345-0nppnr5qr36ipol2632egi9ke7pmtlaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
