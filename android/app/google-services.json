@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "674519086345-9gesn505e9ko54et1519cq816k4vdf5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.topawijaya.rafka_clothing",
+            "certificate_hash": "4491d4a0ddfa0905a155e5ae575021a9efdf9388"
+          }
+        },
+        {
           "client_id": "674519086345-0nppnr5qr36ipol2632egi9ke7pmtlaq.apps.googleusercontent.com",
           "client_type": 3
         }
